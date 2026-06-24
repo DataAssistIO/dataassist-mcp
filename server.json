@@ -1,11 +1,11 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.DataAssistIO/dataassist-io",
+  "name": "io.github.DataAssistIO/Dataassist-IO",
   "description": "Query your org's data in natural language — read-only MCP access to SQL, NoSQL, files & warehouses.",
   "version": "1.0.0",
   "websiteUrl": "https://dataassist.io",
   "repository": {
-    "url": "https://github.com/DataAssistIO/dataassist-mcp",
+    "url": "https://github.com/DataAssistIO/dataassist-io",
     "source": "github"
   },
   "remotes": [
